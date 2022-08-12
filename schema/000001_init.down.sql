@@ -1,0 +1,7 @@
+DROP TABLE items CASCADE;
+
+DROP TABLE delivery CASCADE;
+
+DROP TABLE payment CASCADE;
+
+DROP TABLE orders CASCADE;
